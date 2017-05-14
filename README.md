@@ -2,6 +2,7 @@ INSTALLING Iterated-PD-Tournament-WithGUI-5.0
 
 1. INTRODUCTION
 ======================
+
 This README file explains how to import and run the Iterated-PD-Tournament-WithGUI-8.0 implementation developed for ‚ an iterated tournament of the Prisoner Dilemma game which is freely available for distribution and experimentation.
 
 The implementation of the simulator is divided into six main packages that represent the main components of the System's Architecture: ExternalSystem, FrontEnd, MasModel, parameter Manager, Simulation logger and SimulationEngine.
@@ -17,6 +18,7 @@ By Jonathan Nyantakyi.
 
 2. INSTALLATION
 =================
+
 2.1 Requirements
 
 The software requirements
@@ -69,6 +71,7 @@ To perform a simulation experiment, it is important to ensure that all other req
 3. RUNNING THE PROGRAM
 ===============================
 
+
 You have several options available to run the implementation
 
 
@@ -103,6 +106,7 @@ NOTE : (You might see some warnings, especially if you use a newer version of ja
 
 3. PACKAGES AND CLASSES
 =======================
+
 
 a. externalSystem/   							--  Holds files with documentation for external services such as graphing.
 
@@ -174,6 +178,7 @@ More descriptions of these classes and the various methods  can be found in the 
 
 4. EXTERNAL CODES ADOPTED AND MODIFIED
 ======================================
+
 
 a. SimpleLineChart : 
       
