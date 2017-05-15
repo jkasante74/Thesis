@@ -2,8 +2,9 @@ INSTALLING Iterated-PD-Tournament-WithGUI-5.0
 
 1. INTRODUCTION
 
+This Thesis studies the evolution of cooperative behavior in a variation of the classical Iterated Prisoner's Dilemma game structured in the form of iterated tournaments where individual agents using partial information about past behaviors of future opponents (that are exhibited against other players) to adjust their own strategies at different levels of information acquisition uncertainties.
 
-This README file explains how to import and run the Iterated-PD-Tournament-WithGUI-8.0 implementation developed for ‚ an iterated tournament of the Prisoner Dilemma game which is freely available for distribution and experimentation.
+In order to arrive at a conclusion, a simulation model, as well as experiments will be performed. This README file explains how to import and run the Iterated-PD-Tournament-WithGUI-8.0 implementation developed for the model. The simulation software is freely available for distribution and experimentation.
 
 The implementation of the simulator is divided into six main packages that represent the main components of the System's Architecture: ExternalSystem, FrontEnd, MasModel, parameter Manager, Simulation logger and SimulationEngine.
 
